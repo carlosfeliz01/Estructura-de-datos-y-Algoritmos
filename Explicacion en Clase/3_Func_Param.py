@@ -1,10 +1,10 @@
 #Funciones con parametros
 
 #Suma
-def agregar(a,b):
+def agregar(a,b): #parametros de entrada
     return a+b
 
-print(agregar(5,6))
+print(agregar(5,6)) #argumentos de entrada
 
 #Multiplicar
 def multiplicar(x,y):
